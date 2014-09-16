@@ -1,0 +1,27 @@
+{
+  "name": "MultiVision",
+  "version": "0.0.0",
+  "homepage": "https://github.com/clementbaker/MEANStackDemo",
+  "authors": [
+    "clement baker <prashant.baker@yahoo.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "toastr": "~2.0.3",
+    "angular": "~1.2.24",
+    "angular-resource": "~1.2.24",
+    "angular-route": "~1.2.24"
+  }
+}
