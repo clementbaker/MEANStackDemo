@@ -10,6 +10,7 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "express": "~4.9.0",
-    "jade": "~1.6.0"
+    "jade": "~1.6.0",
+    "mongoose": "~3.8.16"
   }
 }
